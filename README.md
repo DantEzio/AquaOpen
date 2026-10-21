@@ -1,8 +1,8 @@
-# AquaGen
+# AquaOpen
 
-AquaGen is a demonstration repository for open-source workflows in water-system research. It shows how sensitive urban drainage data, mechanistic model outputs, research code, and paper-derived methods can be transformed into shareable artifacts with help from large language models (LLMs).
+AquaOpen is a demonstration repository for open-source workflows in water-system research. It shows how sensitive urban drainage data, mechanistic model outputs, research code, and paper-derived methods can be transformed into shareable artifacts with help from large language models (LLMs).
 
-![AquaGen workflow](workflow.png)
+![AquaOpen workflow](workflow.png)
 
 The repository is organized into six scenarios:
 
@@ -16,7 +16,7 @@ The repository is organized into six scenarios:
 ## Repository Layout
 
 ```text
-AquaGen/
+AquaOpen/
 |-- S1/                       # Data desensitization
 |   |-- S1.py
 |   |-- data/
@@ -70,4 +70,4 @@ pip install pyswmm networkx
 - S5 demonstrates method-level open sourcing: when original industrial code cannot be released, the paper method can still be translated into an executable, inspectable research framework.
 
 ## Keywords
-- https://github.com/sxLii/AquaGen/blob/master/keywords.html
+- https://github.com/sxLii/AquaOpen/blob/master/keywords.html
